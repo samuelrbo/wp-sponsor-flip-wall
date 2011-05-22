@@ -1,0 +1,156 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wp-sfw-plugin\n"
+"POT-Creation-Date: 2011-05-22 13:25-0300\n"
+"PO-Revision-Date: 2011-05-22 13:38-0300\n"
+"Last-Translator: Samuel <samuelrbo@gmail.com>\n"
+"Language-Team: Samuel Ramon <samuelrbo@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: wp-sponsor-flip-wall/helpers.php:261
+msgid "The field %s can contain only letters"
+msgstr ""
+
+#: wp-sponsor-flip-wall/helpers.php:262
+msgid "The field %s can contain only letters, numbers, dashes or underscores"
+msgstr ""
+
+#: wp-sponsor-flip-wall/helpers.php:263
+msgid "The field %s can contain only letters and numbers"
+msgstr ""
+
+#: wp-sponsor-flip-wall/helpers.php:264
+msgid "The field %s can has exact %s characters"
+msgstr ""
+
+#: wp-sponsor-flip-wall/helpers.php:265
+msgid "The field %s can contain only numbers"
+msgstr ""
+
+#: wp-sponsor-flip-wall/helpers.php:266
+msgid "The field %s can contain only natural numbers"
+msgstr ""
+
+#: wp-sponsor-flip-wall/helpers.php:267
+msgid "The field %s can contain only numbers"
+msgstr ""
+
+#: wp-sponsor-flip-wall/helpers.php:268
+msgid "The field %s can be the same as the field %s"
+msgstr ""
+
+#: wp-sponsor-flip-wall/helpers.php:269
+msgid "The field %s can\'t exceed %s characters"
+msgstr ""
+
+#: wp-sponsor-flip-wall/helpers.php:270
+msgid "The field %s can\'t be less than %s characters"
+msgstr ""
+
+#: wp-sponsor-flip-wall/helpers.php:271
+msgid "The field %s can contain only numbers"
+msgstr ""
+
+#: wp-sponsor-flip-wall/helpers.php:272
+msgid "The field %s is required"
+msgstr ""
+
+#: wp-sponsor-flip-wall/helpers.php:273
+msgid "The field %s isn\'t a valid base 64 encryption"
+msgstr ""
+
+#: wp-sponsor-flip-wall/helpers.php:274
+msgid "The field %s isn\'t a valid email address"
+msgstr ""
+
+#: wp-sponsor-flip-wall/helpers.php:275
+msgid "The field %s isn\'t a valid IP address"
+msgstr ""
+
+#: wp-sponsor-flip-wall/helpers.php:276
+msgid "The field %s must be a valid URL"
+msgstr ""
+
+#: wp-sponsor-flip-wall/helpers.php:337
+msgid "No data was sent by the form to be validade"
+msgstr ""
+
+#: wp-sponsor-flip-wall/views/sponsor_config.php:12
+msgid "Configurations"
+msgstr ""
+
+#: wp-sponsor-flip-wall/views/sponsor_config.php:20
+msgid "Plugin image directory"
+msgstr ""
+
+#: wp-sponsor-flip-wall/views/sponsor_config.php:29
+msgid "Remove database tables when disable the plugin"
+msgstr ""
+
+#: wp-sponsor-flip-wall/views/sponsor_config.php:45
+msgid "Remove plugin folder and files when disable the plugin"
+msgstr ""
+
+#: wp-sponsor-flip-wall/views/sponsor_config.php:61
+msgid "Image width and height to validate"
+msgstr ""
+
+#: wp-sponsor-flip-wall/views/sponsor_config.php:78
+msgid "Auto crop sponsor\'s images"
+msgstr ""
+
+#: wp-sponsor-flip-wall/views/sponsor_config.php:94
+msgid "Image crop width and height if auto crop images is set"
+msgstr ""
+
+#: wp-sponsor-flip-wall/views/sponsor_gallery_render.php:18
+msgid "See more about the sponsor"
+msgstr ""
+
+#: wp-sponsor-flip-wall/views/sponsor_list.php:53
+#: wp-sponsor-flip-wall/views/sponsor_list.php:69
+#: wp-sponsor-flip-wall/wp-sponsor-flip-wall.php:245
+msgid "Sponsor"
+msgstr ""
+
+#: wp-sponsor-flip-wall/views/sponsor_new.php:56
+msgid "Active"
+msgstr ""
+
+#: wp-sponsor-flip-wall/views/sponsor_new.php:57
+msgid "Inactive"
+msgstr ""
+
+#: wp-sponsor-flip-wall/wp-sponsor-flip-wall.php:72
+msgid "WP Sponsor Flip Wall"
+msgstr ""
+
+#: wp-sponsor-flip-wall/wp-sponsor-flip-wall.php:75
+msgid "Sponsors"
+msgstr ""
+
+#: wp-sponsor-flip-wall/wp-sponsor-flip-wall.php:77
+msgid "New Sponsor"
+msgstr ""
+
+#: wp-sponsor-flip-wall/wp-sponsor-flip-wall.php:117
+msgid "A sponsor was removed!"
+msgstr ""
+
+#: wp-sponsor-flip-wall/wp-sponsor-flip-wall.php:201
+msgid "Success! Sponsor saved"
+msgstr ""
+
+#: wp-sponsor-flip-wall/wp-sponsor-flip-wall.php:225
+msgid "The sponsor\'s image doesn\'t exists"
+msgstr ""
+
+#: wp-sponsor-flip-wall/wp-sponsor-flip-wall.php:257
+msgid "Success! The sponsor image was removed"
+msgstr ""
+

@@ -1,0 +1,84 @@
+/* 
+Document   : sponso-flip-wall
+Created on : 16/05/2011, 12:39:15
+Author     : Samuel Ramon samuelrbo@gmail.com
+*/
+
+/* New and edit form */
+div.sponsor-flip div.fl, div.img { width: 350px; float: left; }
+div.sponsor-flip div.img div { height: 140px; width: 140px; padding: 10px; margin: 25px 0 5px; border: 1px dashed #c7c7c7; }
+div.sponsor-flip div.img span { margin-left: 10px; }
+div.sponsor-flip label { display: block; margin: 20px 0 0; }
+div.sponsor-flip textarea { width: 300px; height: 150px; }
+div.sponsor-flip input[type=text], select { width: 300px; }
+div.sponsor-flip input#submit { width: 285px; }
+
+
+/* Sponsor Flip Wall */
+.sponsorListHolder{
+margin-bottom:30px;
+}
+
+.sponsor{
+width:180px;
+height:180px;
+float:left;
+margin:4px;
+
+/* Giving the sponsor div a relative positioning: */
+position:relative;
+cursor:pointer;
+}
+
+.sponsorFlip{
+/*  The sponsor div will be positioned absolutely with respect
+to its parent .sponsor div and fill it in entirely */
+
+position:absolute;
+left:0;
+top:0;
+width:100%;
+height:100%;
+border:1px solid #ddd;
+background:url("../images/background.jpg") no-repeat center center #f9f9f9;
+}
+
+.sponsorFlip:hover{
+border:1px solid #999;
+
+/* CSS3 inset shadow: */
+-moz-box-shadow:0 0 30px #999 inset;
+-webkit-box-shadow:0 0 30px #999 inset;
+box-shadow:0 0 30px #999 inset;
+}
+
+.sponsorFlip img{
+	/* Centering the logo image in the middle of the .sponsorFlip div */
+
+	position:absolute;
+	top:50%;
+	left:50%;
+	margin:-70px 0 0 -70px;
+}
+
+.sponsorData{
+	/* Hiding the .sponsorData div */
+	display:none;
+}
+
+.sponsorDescription{
+	font-size:11px;
+	padding:12px 10px 20px 20px;
+	font-style:italic;
+}
+
+.sponsorURL{
+	font-size:10px;
+	font-weight:bold;
+	padding-left:20px;
+}
+
+.clear{
+	/* This class clears the floats */
+	clear:both;
+}
