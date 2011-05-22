@@ -1,4 +1,4 @@
-=== Meu Primeiro Plugin ===
+=== WP Sponsor Flip Wall ===
 
 Contributors: Samuel Ramon
 
