@@ -1,56 +1,25 @@
 === WP Sponsor Flip Wall ===
-
 Contributors: Samuel Ramon
+Tags: sponsor, flip, wall, html5, css3, animation, plugin
+Requires at least: 5.2.2
+Tested up to: 5.2.2
+Requires PHP: 7.0
+Stable tag: 2.0.0
+License: MIT
 
-Tags: sponsor, flip, wall, jquery, plugin
-
-Requires at least: 3.1.2
-
-Tested up to: 3.1.2
-
-Stable tag: 1.0
-
-
-
-This is a WordPress plugin that use jquery's sponsor flip wall plugin. This provide an administration to include, alter and deletes sponsors.
-
-
+This is a WordPress plugin that use CSS 3 flip animation. This use wordpress post type to create sponsors. This plugin was update to prevent any problem with wordpress jquery versions.
+This was changed to use the power of wordpress post type, and the css 3 animations. I hope you enjoy this plugin again. =}
 
 == Description ==
+This plugin uses the power of wordpress post types.
 
-
-
-This plugin provides yous a simple sponsors administration. You can include, alter and delete the sponsors.
-
-To use ir you only need to put the render code wherever you want to show the soponsor flip wall:
-
-	1. Put the function <?php wp_sfw_render(); ?> where you want to show the sponsor flip wall;
-
-	2. Make sure you have using the jQuery Framework;
-
-	3. In case of errors, send the information about it to me
-
-
-
-This is my first wordpress plugin to the community. I hope it help someone =D.
-
-Here some interesting links that I used to make the plugin:
-
-<a href="http://lab.smashup.it/flip/">Flip!a jquery plugin</a>
-
-<a href="http://tutorialzine.com/2010/03/sponsor-wall-flip-jquery-css/">Sponsor Flip Wall With jQuery & CSS</a>
-
-
+To use it you need to put the render code wherever you want to show the sponsor flip wall in your theme page.
 
 == Installation ==
-
-
-
-1. Download the file to the folder '/wp-content/plugins/';
+1. Download the file to the folder \'/wp-content/plugins/\';
 
 2. Active the plugin in WordPress Plugins interface;
 
-3. Configure the plugin defaults;
+3. Access the menu Sponsors (Post Type) and create the sponsor list;
 
-4. Call the Sponsor Flip Wall with calling the function <?php wp_sfw_render() ?> where you wanto to show it.
-
+4. Call the Sponsor Flip Wall with calling the function  where you wanto to show it.
