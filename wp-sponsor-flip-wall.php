@@ -3,7 +3,7 @@
 Plugin Name: WP Sponsor Flip Wall
 Plugin URI: http://samuelramon.com.br/projects/wp-sponsor-flip-wall
 Description: With this plugin you can show your sponsors/partners logo with short description using the power of Wordpress Post Types and CSS 3 flip animation.
-Version: 2.0.0
+Version: 2.0.1
 Author: Samuel Ramon
 Author URI: http://samuelramon.com.br
 License: GPLv2
@@ -33,7 +33,7 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 */
 
 // Plugin Version
-define( 'WP_SFW_VERSION', '2.0.0' );
+define( 'WP_SFW_VERSION', '2.0.1' );
 // Defining the directory separator
 define( 'DS', DIRECTORY_SEPARATOR );
 // Defining the pluing's sponsor flip wall images directories

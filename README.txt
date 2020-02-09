@@ -4,7 +4,7 @@ Tags: sponsor, flip, wall, html5, css3, animation, plugin
 Requires at least: 5.2.2
 Tested up to: 5.3.2
 Requires PHP: 7.0
-Stable tag: 2.0.0
+Stable tag: 2.0.1
 License: MIT
 
 This is a WordPress plugin that use CSS 3 flip animation. This use wordpress post type to create sponsors. This plugin was update to prevent any problem with wordpress jquery versions.
@@ -23,3 +23,15 @@ To use it you need to put the render code wherever you want to show the sponsor 
 3. Access the menu Sponsors (Post Type) and create the sponsor list;
 
 4. Call the Sponsor Flip Wall with calling the function  where you wanto to show it.
+
+== Changelog ==
+
+= 2.0.1 =
+- Updated compatibility for the last version of Wordpress
+
+= 2.0.0 =
+- Changed to use Wordpress post type
+- Changed flip to use css3
+
+= 1.0.0 =
+First version
