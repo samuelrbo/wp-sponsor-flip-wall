@@ -2,7 +2,7 @@
 Contributors: Samuel Ramon
 Tags: sponsor, flip, wall, html5, css3, animation, plugin
 Requires at least: 5.2.2
-Tested up to: 5.2.2
+Tested up to: 5.3.2
 Requires PHP: 7.0
 Stable tag: 2.0.0
 License: MIT
